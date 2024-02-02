@@ -1,2 +1,2 @@
 # MyCalc
-test reporsitory
+test repository
